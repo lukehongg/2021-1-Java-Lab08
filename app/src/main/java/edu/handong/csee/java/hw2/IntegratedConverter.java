@@ -11,6 +11,7 @@ public class IntegratedConverter {
 
     private double fromValue;
 
+    
     /**
      * 
      * @param args this is main method, gets args as parameter
